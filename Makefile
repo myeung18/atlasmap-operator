@@ -1,5 +1,5 @@
 
-ORG = atlasmap
+ORG = myeung18
 NAMESPACE ?= atlasmap
 PROJECT = atlasmap-operator
 TAG = latest

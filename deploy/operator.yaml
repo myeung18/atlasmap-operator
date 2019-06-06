@@ -15,7 +15,7 @@ spec:
       serviceAccountName: atlasmap-operator
       containers:
         - name: atlasmap-operator
-          image: docker.io/atlasmap/atlasmap-operator
+          image: docker.io/myeung18/atlasmap-operator
           ports:
           - containerPort: 8383
             name: metrics
