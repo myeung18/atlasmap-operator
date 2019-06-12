@@ -162,7 +162,7 @@ spec:
                       fieldPath: metadata.name
                 - name: OPERATOR_NAME
                   value: atlasmap-operator
-                image: docker.io/atlasmap/atlasmap-operator:0.1.0
+                image: docker.io/myeung18/atlasmap-operator
                 imagePullPolicy: Always
                 name: atlasmap-operator
                 ports:
